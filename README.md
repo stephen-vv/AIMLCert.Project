@@ -1,7 +1,7 @@
 # AIMLCert.Project
 Portfolio project for the AI/ML Certificate course
 
-# PROJECT TITLE 
+# Titanic Survival Prediction 
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
